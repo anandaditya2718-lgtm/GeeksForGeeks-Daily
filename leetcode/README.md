@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0014-longest-common-prefix) |
+| [1293-three-consecutive-odds](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/1293-three-consecutive-odds) |
 ## Trie
 |  |
 | ------- |
