@@ -22,5 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0742-to-lower-case](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0742-to-lower-case) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
