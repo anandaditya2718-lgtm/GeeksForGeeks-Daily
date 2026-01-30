@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0342-power-of-four) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0742-to-lower-case](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0742-to-lower-case) |
 ## Array
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
