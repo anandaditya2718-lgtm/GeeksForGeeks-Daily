@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0231-power-of-two) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0342-power-of-four) |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anandaditya2718-lgtm/DSA/tree/master/LeetCode/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
